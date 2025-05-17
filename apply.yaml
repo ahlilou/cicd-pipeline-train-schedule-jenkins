@@ -3,4 +3,4 @@ kind: Namespace
 metadata:
   name: dev-ali-git
   annotations:
-    environment: production
+    environment: production2
